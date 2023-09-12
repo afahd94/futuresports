@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/github.io/futuresports/static/css/main.08303cae.css",
-    "main.js": "/github.io/futuresports/static/js/main.bd6e44e1.js",
-    "static/js/787.a578d271.chunk.js": "/github.io/futuresports/static/js/787.a578d271.chunk.js",
-    "static/media/soccerbackground.jpg": "/github.io/futuresports/static/media/soccerbackground.9fdbb7f405e54550baaf.jpg",
-    "static/media/soccerplayer.jpg": "/github.io/futuresports/static/media/soccerplayer.b6d048a7c8eac9016ca3.jpg",
-    "static/media/soccerpitch.jpg": "/github.io/futuresports/static/media/soccerpitch.2834003c58ce0803045c.jpg",
-    "static/media/soccerball.jpg": "/github.io/futuresports/static/media/soccerball.4a9d5b3d8f11426e1ca2.jpg",
-    "index.html": "/github.io/futuresports/index.html",
-    "main.08303cae.css.map": "/github.io/futuresports/static/css/main.08303cae.css.map",
-    "main.bd6e44e1.js.map": "/github.io/futuresports/static/js/main.bd6e44e1.js.map",
-    "787.a578d271.chunk.js.map": "/github.io/futuresports/static/js/787.a578d271.chunk.js.map"
+    "main.css": "/futuresports/static/css/main.08303cae.css",
+    "main.js": "/futuresports/static/js/main.7d937fee.js",
+    "static/js/787.a578d271.chunk.js": "/futuresports/static/js/787.a578d271.chunk.js",
+    "static/media/soccerbackground.jpg": "/futuresports/static/media/soccerbackground.9fdbb7f405e54550baaf.jpg",
+    "static/media/soccerplayer.jpg": "/futuresports/static/media/soccerplayer.b6d048a7c8eac9016ca3.jpg",
+    "static/media/soccerpitch.jpg": "/futuresports/static/media/soccerpitch.2834003c58ce0803045c.jpg",
+    "static/media/soccerball.jpg": "/futuresports/static/media/soccerball.4a9d5b3d8f11426e1ca2.jpg",
+    "index.html": "/futuresports/index.html",
+    "main.08303cae.css.map": "/futuresports/static/css/main.08303cae.css.map",
+    "main.7d937fee.js.map": "/futuresports/static/js/main.7d937fee.js.map",
+    "787.a578d271.chunk.js.map": "/futuresports/static/js/787.a578d271.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08303cae.css",
-    "static/js/main.bd6e44e1.js"
+    "static/js/main.7d937fee.js"
   ]
 }
