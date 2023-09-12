@@ -1,0 +1,36 @@
+nav {
+    background-color: #333;
+    color: white;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Default styling for the light mode */
+nav {
+  background-color: white;
+  color: black;
+}
+
+/* Styling for the dark mode */
+nav.dark-mode {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
